@@ -121,7 +121,7 @@ section img {
 
 #transform-world {
   height: 360px;
-  background-image: url(./assets/images/woman-code.png);
+  background-image: url(assets/images/woman-code.png);
   background-attachment: fixed;
   border-bottom: 2px 0px 2px 0px solid rgb(11, 149, 212);
   background-size: 100%;
