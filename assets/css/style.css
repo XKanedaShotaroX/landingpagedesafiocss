@@ -15,7 +15,7 @@ header {
   align-items: center;
   justify-content: center;
   background-color: linear-gradient(rgb(11, 149, 212), black);
-  background-image: url(/assets/images/banner.png), linear-gradient(black, rgba(11, 149, 212, 0.15));
+  background-image: url(assets/images/banner.png), linear-gradient(black, rgba(11, 149, 212, 0.15));
   border: 2px 0px solid rgb(11, 149, 212);
 }
 
